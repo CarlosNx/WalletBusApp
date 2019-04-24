@@ -1,4 +1,4 @@
-# WalletBus
+# WalletBus - Tecnologia e Transporte Público
 Este trabalho aborda a usabilidade de um aplicativo de realização de recargas e consulta de saldos na carteira estudantil para dispositivos móveis. A fim de solucionar a grande demanda nos pontos de recargas de carteira estudantil e consequentemente gerar uma economia de tempo ao usuário.
 
 <strong><h2>Funcionalidades</h2></strong>
@@ -11,9 +11,9 @@ Este trabalho aborda a usabilidade de um aplicativo de realização de recargas 
 </ul>
 
 <strong><h2>Desenvolvedores</h2></strong>
-<li>Carlos Adriano</li>
-<li>Leonardo Carlos</li>
-<li>Juan Castro</li>
+<li>Carlos Adriano - carlosadryanno@outlook.com</li>
+<li>Leonardo Carlos - leonardocarlos_@live.com</li>
+<li>Juan Castro - jc99ribeiro@gmail.com</li>
 </ul>
 
 
